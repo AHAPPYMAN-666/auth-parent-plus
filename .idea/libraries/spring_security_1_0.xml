@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="spring-security-1.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../auth-parent/代码/1-后端代码/guigu-auth-parent/common/spring-security/target/spring-security-1.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
